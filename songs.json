@@ -1,0 +1,188 @@
+{
+  "songs": [
+    {
+      "id": "Melting",
+      "title": "Melting",
+      "artist": "cuco",
+      "audioFile": "Melting.mp3",
+      "coverImage": "melting.jpg",
+      "colors": ["#FFB6C1", "#87CEEB"]
+    },
+    {
+      "id": "dark-red",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "audioFile": "Dark_red.mp3",
+      "coverImage": "Dark_red.jpg",
+      "colors": ["#4B0082", "#FF4500"]
+    },
+    {
+      "id": "diet-mountain-dew",
+      "title": "Diet Mountain Dew",
+      "artist": "Lana Del Rey",
+      "audioFile": "Diet Mountain Dew.mp3",
+      "coverImage": "Diet_Mountain_Dew.jpg",
+      "colors": ["#4682B4", "#DDA0DD"]
+    },
+    {
+      "id": "Sweater-Weather",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "audioFile": "Sweater_Weather.mp3",
+      "coverImage": "sweater-weather.jpeg",
+      "colors": ["#1C1C1C", "#90A4AE"]
+    },
+    {
+      "id": "die-for-you",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "audioFile": "Die_for_you.mp3",
+      "coverImage": "Die_for_you.jpg",
+      "colors": ["#2C1810", "#8B4513"]
+    },
+    {
+      "id": "i-wanna-be-yours",
+      "title": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "audioFile": "I_wanna_be_yours.mp3",
+      "coverImage": "I_wanna_be_yours.jpg",
+      "colors": ["#9932CC", "#4B0082"]
+    },
+    {
+      "id": "no-1-party-anthem",
+      "title": "No. 1 Party Anthem",
+      "artist": "Arctic Monkeys",
+      "audioFile": "No. 1 Party Anthem.mp3",
+      "coverImage": "No. 1 Party Anthem.jpg",
+      "colors": ["#A9A9A9", "#404040"]
+    },
+    {
+      "id": "love-zoe",
+      "title": "Love",
+      "artist": "Zoé",
+      "audioFile": "Zoé - Love (Lyrics).mp3",
+      "coverImage": "Love_Zoe.jpg",
+      "colors": ["#008080", "#2E8B57"]
+    },
+    {
+      "id": "locos",
+      "title": "Locos",
+      "artist": "León Larregui",
+      "audioFile": "Locos.mp3",
+      "coverImage": "Locos.jpg",
+      "colors": ["#32CD32", "#228B22"]
+    },
+    {
+      "id": "magic-music-box",
+      "title": "Magic Music Box",
+      "artist": "León Larregui",
+      "audioFile": "magic_music_box.mp3",
+      "coverImage": "magic_music_box.jpg",
+      "colors": ["#9370DB", "#DDA0DD"]
+    },
+    {
+      "id": "off-my-face",
+      "title": "OFF MY FACE",
+      "artist": "Måneskin",
+      "audioFile": "Måneskin - OFF MY FACE.mp3",
+      "coverImage": "Off_My_Face.jpg",
+      "colors": ["#DC143C", "#8B0000"]
+    },
+    {
+      "id": "oye-mi-amor",
+      "title": "Oye Mi Amor",
+      "artist": "Maná",
+      "audioFile": "Maná - Oye Mi Amor.mp3",
+      "coverImage": "Oye_Mi_Amor.jpg",
+      "colors": ["#FF4500", "#B22222"]
+    },
+    {
+      "id": "frances-limon",
+      "title": "Francés Limón",
+      "artist": "Los Enanitos Verdes",
+      "audioFile": "Frances_Limon.mp3",
+      "coverImage": "Frances_Limon.jpeg",
+      "colors": ["#FDD835", "#FFB300"]
+    },
+    {
+      "id": "cupids-chokehold",
+      "title": "Cupid's Chokehold",
+      "artist": "Gym Class Heroes",
+      "audioFile": "Cupid_sChokehold.mp3",
+      "coverImage": "Cupid_sChokehold.jpg",
+      "colors": ["#667EEA", "#764BA2"]
+    },
+    {
+      "id": "dream-girl",
+      "title": "Dream Girl",
+      "artist": "Ir Sais",
+      "audioFile": "Dream_Girl.mp3",
+      "coverImage": "Dream_Girl.jpg",
+      "colors": ["#FF69B4", "#DDA0DD"]
+    },
+    {
+      "id": "this-is-what-falling-in-love-feels-like",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "audioFile": "JVKE - this is what falling in love feels like (Lyrics).mp3",
+      "coverImage": "JVKE_Falling_in_Love.jpg",
+      "colors": ["#FFB6C1", "#87CEEB"]
+    },
+    {
+      "id": "pruebame-a-ti",
+      "title": "Pruebame a Ti",
+      "artist": "Josean Log",
+      "audioFile": "Pruebame_a_Ti.mp3",
+      "coverImage": "Pruebame_a_Ti.jpeg",
+      "colors": ["#F0A0C0", "#90E0E9"]
+    },
+    {
+      "id": "beso",
+      "title": "Beso",
+      "artist": "Josean Log",
+      "audioFile": "Beso.mp3",
+      "coverImage": "Beso.jpg",
+      "colors": ["#FF6B6B", "#4ECDC4"]
+    },
+    {
+      "id": "just-the-way-you-are",
+      "title": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "audioFile": "Just_the_way_you_are.mp3",
+      "coverImage": "Just_the_way_you_are.jpg",
+      "colors": ["#FFD700", "#FF8C00"]
+    },
+    {
+      "id": "mi-persona-favorita",
+      "title": "Mi Persona Favorita",
+      "artist": "Río Roma",
+      "audioFile": "Río Roma - Mi Persona Favorita (Lyric Video).mp3",
+      "coverImage": "Mi_Persona_Favorita.jpg",
+      "colors": ["#FF6347", "#F08080"]
+    },
+    {
+      "id": "contigo-los-panchos",
+      "title": "Contigo",
+      "artist": "Los Panchos",
+      "audioFile": "Contigo.mp3",
+      "coverImage": "Contigo.jpg",
+      "colors": ["#A0522D", "#8B4513"]
+    },
+    {
+      "id": "cant-help-falling-in-love",
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "audioFile": "Elvis Presley — Can't Help Falling In Love [Sub. Español].mp3",
+      "coverImage": "Cant_Help_Falling.jpg",
+      "colors": ["#191970", "#4682B4"]
+    },
+    {
+      "id": "never-ever-getting-rid-of-me",
+      "title": "Never Ever Getting Rid of Me",
+      "artist": "Christopher Fitzgerald",
+      "audioFile": "Never_Ever.mp3",
+      "coverImage": "Never_Ever_Waitress.jpeg",
+      "colors": ["#880E4F", "#4A148C"]
+    }
+  ]
+}
